@@ -1,2 +1,1 @@
-# beiner_website
-# beiner_website
+# beginner_website
